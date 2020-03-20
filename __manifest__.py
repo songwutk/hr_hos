@@ -3,7 +3,7 @@
     'name': "hr_hos",
 
     'summary': """
-        Hospital Employee
+        Hospital Employee 
         """,
 
     'description': """
@@ -18,6 +18,7 @@
     # for the full list
     'category': 'Human Resources',
     'version': '0.1',
+    'application': True,
 
     # any module necessary for this one to work correctly
     'depends': ['base','hr'],
